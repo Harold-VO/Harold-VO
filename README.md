@@ -1,4 +1,4 @@
-[![ProfileBanner](https://drive.google.com/file/d/1eJwYm1CBvC7_XSNASyoVJerS-9d5QHbD/view?usp=sharing)](https://Davekibh.github.io)
+[![ProfileBanner](https://github.com/Harold-VO/Harold-VO/blob/main/banner_haroldvo.png)](https://Davekibh.github.io)
 
 ### About me🧑:
 I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
