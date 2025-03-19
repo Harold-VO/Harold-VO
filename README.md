@@ -1,4 +1,4 @@
-[![ProfileBanner](https://github.com/Davekibh/Davekibh/blob/main/Images/Banner%20Image.png)](https://Davekibh.github.io)
+[![ProfileBanner](https://drive.google.com/file/d/1eJwYm1CBvC7_XSNASyoVJerS-9d5QHbD/view?usp=sharing)](https://Davekibh.github.io)
 
 ### About me🧑:
 I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
