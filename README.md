@@ -2,21 +2,7 @@
 <h1 align="center"><b>Hi , I'm Harold Ventura </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">👨‍💻 I am a <b>Computer Engineer</b> with a background in <b>Backend development</b> and an interest in <b>Data Science</b> 📊. <br>In addition, I am a Kick Boxing <b>teacher</b> 🥊.</p>
 
-<p align="center">More than <b>five years</b> ago I started in the world of programming, I have experience in <b>PHP</b> with Laravel, <b>Java</b> in Android Studio, <b>Python</b> doing web scraping. Only that in PHP <b>I have had professional experience</b> and that is where I have focused my preparation. <b>I am interested in data, predictions and demonstrating these results</b>, which is why I started in the world of data science.</p><br>
-
-<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
-
-- 🔭 I’m currently working on Frontend Web Development & Android Development.
-- 🌱 I’m currently learning Backend Development.
-- 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
-- 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about Frontend and Android Development.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I 💖 to code 24x7.
-- 🎢 Profile Visitors Count:  
-![](https://visitor-badge.glitch.me/badge?page_id=Davekibh.Davekibh)
-
-<br/>
+<p align="center">More than <b>five years</b> ago I started in the world of programming, I have experience in <b>PHP</b> with Laravel, <b>Java</b> in Android Studio, <b>Python</b> doing web scraping. <b>I am interested in data, predictions and demonstrating these results</b>, which is why I started in the world of data science.</p>
 
 <hr>
 
