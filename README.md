@@ -1,9 +1,8 @@
 [![ProfileBanner](https://github.com/Harold-VO/Harold-VO/blob/main/banner_haroldvo.png)](https://github.com/Harold-VO)
+<h1 align="center"><b>Hi , I'm Harold Ventura </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">👨‍💻 I am a <b>Computer Engineer</b> with a background in <b>Backend development</b> and an interest in <b>Data Science</b> 📊. <br>In addition, I am a Kick Boxing <b>teacher</b> 🥊.</p>
 
-### About me🧑:
-I am Computer Engineering and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
-I have done Internship as a FullStack Developer as well as Website Tester.<br/>
-I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
+<p align="center">More than <b>five years</b> ago I started in the world of programming, I have experience in <b>PHP</b> with Laravel, <b>Java</b> in Android Studio, <b>Python</b> doing web scraping. Only that in PHP <b>I have had professional experience</b> and that is where I have focused my preparation. <b>I am interested in data, predictions and demonstrating these results</b>, which is why I started in the world of data science.</p><br>
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
