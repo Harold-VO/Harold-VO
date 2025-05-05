@@ -1,25 +1,15 @@
 [![ProfileBanner](https://github.com/Harold-VO/Harold-VO/blob/main/banner_haroldvo.png)](https://github.com/Harold-VO)
 <h1 align="center"><b>Hi , I'm Harold Ventura </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">👨‍💻 I am a <b>Computer Engineer</b> with a background in <b>Backend development</b> and an interest in <b>Data Science</b> 📊. <br>In addition, I am a Kick Boxing <b>teacher</b> 🥊.</p>
-
-<p align="center">More than <b>five years</b> ago I started in the world of programming, I have experience in <b>PHP</b> with Laravel, <b>Java</b> in Android Studio, <b>Python</b> doing web scraping. <b>I am interested in data, predictions and demonstrating these results</b>, which is why I started in the world of data science.</p>
-
-<hr>
-
-```
-I-am-vishalmaurya@github
--------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
-```
-<hr>
+I am a Computer Engineer 🎓 with a background in Backend development 👨‍💻 and an interest in Data Science 📊 <br/>
+I have networking certifications from CISCO Networking Academy, servers from Red Hat, and programming from Coursera 📚 <br/>
+My professional experience is two years, with projects in these technologies:
+<ul>
+	<li>🐬 SQL with MySQL</li>
+	<li>🐘 PHP with Laravel</li>
+	<li>♨️ Java with Android Studio</li>
+	<li>🐍 Python doing web sraping</li>
+</ul>
+In addition, I am a Kick Boxing teacher 🥊.</p>
 
 ### Github Activity ✔:
 
