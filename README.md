@@ -14,21 +14,45 @@ My professional experience is two years, with projects in these technologies:
 In addition, I am a Kick Boxing teacher 🥊</p>
 
 <h2> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<code><img src="https://skillicons.dev/icons?i=html"></code>
+<div align="center"><code><img src="https://skillicons.dev/icons?i=html"></code>
 <code><img src="https://skillicons.dev/icons?i=css"></code>
 <code><img src="https://skillicons.dev/icons?i=js"></code>
 <code><img src="https://skillicons.dev/icons?i=php"></code>
-<code><img src="https://skillicons.dev/icons?i=python"></code>
-<code><img src="https://skillicons.dev/icons?i=java"></code>
-<code><img src="https://skillicons.dev/icons?i=cpp"></code>
 <code><img src="https://skillicons.dev/icons?i=mysql"></code>
+<code><img src="https://skillicons.dev/icons?i=sqlite"></code>
+<code><img src="https://skillicons.dev/icons?i=java"></code>
+<code><img src="https://skillicons.dev/icons?i=python"></code>
+<code><img src="https://skillicons.dev/icons?i=cpp"></code>
 
 #
 
 <code><img src="https://skillicons.dev/icons?i=laravel"></code>
-<code><img src="https://skillicons.dev/icons?i=anaconda"></code>
 <code><img src="https://skillicons.dev/icons?i=androidstudio"></code>
-<code><img src="https://skillicons.dev/icons?i="></code>
+<code><img src="https://skillicons.dev/icons?i=eclipse"></code>
+<code><img src="https://skillicons.dev/icons?i=anaconda"></code>
+<code><img src="https://skillicons.dev/icons?i=arduino"></code>
+<code><img src="https://skillicons.dev/icons?i=postman"></code>
+<code><img src="https://skillicons.dev/icons?i=aws"></code>
+
+#
+
+<code><img src="https://skillicons.dev/icons?i=windows"></code>
+<code><img src="https://skillicons.dev/icons?i=vscode"></code>
+<code><img src="https://skillicons.dev/icons?i=sublime"></code>
+<code><img src="https://skillicons.dev/icons?i=figma"></code>
+<code><img src="https://skillicons.dev/icons?i=bootstrap"></code>
+<code><img src="https://skillicons.dev/icons?i=obsidian"></code>
+<code><img src="https://skillicons.dev/icons?i=discord"></code>
+
+#
+
+<code><img src="https://skillicons.dev/icons?i=linux"></code>
+<code><img src="https://skillicons.dev/icons?i=git"></code>
+<code><img src="https://skillicons.dev/icons?i=github"></code>
+<code><img src="https://skillicons.dev/icons?i=ubuntu"></code>
+<code><img src="https://skillicons.dev/icons?i=mint"></code>
+<code><img src="https://skillicons.dev/icons?i=redhat"></code> </div>
+
 
 ## 📈 My GitHub Stats and Activity
 
