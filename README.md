@@ -54,13 +54,13 @@ In addition, I am a Kick Boxing teacher 🥊</p>
 <h2> Connect with me 🙋‍♂️ </h2>
 
 <div>
+
+<img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTd3cDR4ZmhpbjVuNHp6ZWswaTltbnZ3eDBydjZzODU0ZXdtaGFuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" align="right" width = 15% style="max-width: 100%; display: inline-block;">
 	
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haroldvo)
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/harold.ventura.950286)
 [![Instagram](https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/harold__vo)
 
-<p><b>Ad astra per aspera</b> 🌠</p>
-
-<img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTd3cDR4ZmhpbjVuNHp6ZWswaTltbnZ3eDBydjZzODU0ZXdtaGFuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" align="right" width = 15%>
+<p><b>Ad astra per aspera</b> 🌠</9>
 
 </div>
