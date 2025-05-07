@@ -55,6 +55,8 @@ In addition, I am a Kick Boxing teacher 🥊</p>
 
 
 ## My GitHub Stats and Activity 📈
+![Harold's GitHub stats](https://github-readme-stats.vercel.app/api?username=harold-vo&hide=contribs,prs)
+
 
 ![Harold's GitHub stats](https://github-readme-stats.vercel.app/api?username=harold-vo&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harold-vo&layout=compact)
