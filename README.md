@@ -1,7 +1,7 @@
 [![ProfileBanner](https://github.com/Harold-VO/Harold-VO/blob/main/banner_haroldvo.png)](https://github.com/Harold-VO)
 <h1 align="center"><b>Hi , I'm Harold Ventura </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## 📖 About me
+## About me 📖
 I am a Computer Engineer 🎓 with a background in Backend development 👨‍💻 and an interest in Data Science 📊 <br/>
 I have networking certifications from CISCO Networking Academy, servers from Red Hat, and programming from Coursera 📚 <br/>
 My professional experience is two years, with projects in these technologies:
@@ -40,33 +40,27 @@ In addition, I am a Kick Boxing teacher 🥊</p>
 	<code><img src="https://skillicons.dev/icons?i=bootstrap"></code>
 </div>
 
+## Certificados
 
-## My GitHub Stats and Activity 📈
+## My GitHub Stats 📈
 
-![Harold's GitHub stats](https://github-readme-stats.vercel.app/api?username=harold-vo&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harold-vo&layout=compact)
+<div align="center">
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+![Harold's GitHub stats](https://github-readme-stats.vercel.app/api?username=harold-vo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harold-vo&layout=compact&theme=radical)
 
-<p align="center">
+</div>
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-      </div>
+<h2> Connect with me 🙋‍♂️ </h2>
 
-</p>
+<div>
+	
+[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haroldvo)
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/harold.ventura.950286)
+[![Instagram](https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/harold__vo)
+
+<p><b>Ad astra per aspera</b> 🌠</p>
+
+<img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTd3cDR4ZmhpbjVuNHp6ZWswaTltbnZ3eDBydjZzODU0ZXdtaGFuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" align="right" width = 15%>
+
+</div>
