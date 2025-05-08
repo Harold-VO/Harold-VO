@@ -40,7 +40,9 @@ In addition, I am a Kick Boxing teacher 🥊</p>
 	<code><img src="https://skillicons.dev/icons?i=bootstrap"></code>
 </div>
 
-## Certificados
+## Certifications 🏆
+
+|
 
 ## My GitHub Stats 📈
 
